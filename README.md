@@ -4,5 +4,5 @@ Simple project using robohash api
 
 To run,
 
-Run npm install
-Run npm start
+* Run `npm install`
+* Run `npm start`
